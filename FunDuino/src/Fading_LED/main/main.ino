@@ -14,5 +14,5 @@ void loop() {
 
   if(brightness==0 || brightness==255){
     fading = -fading;
-    }
+  }
 }
