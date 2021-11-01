@@ -1,10 +1,6 @@
 {
 	"folders": [
 		{
-			"name": "elloWorld",
-			"path": "C:\\Users\\erdna\\Documents\\PlatformIO\\Projects\\elloWorld"
-		},
-		{
 			"name": "ES_Arduino_Basics",
 			"path": "."
 		},
