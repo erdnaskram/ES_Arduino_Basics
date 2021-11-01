@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "elloWorld",
+			"path": "C:\\Users\\erdna\\Documents\\PlatformIO\\Projects\\elloWorld"
+		},
+		{
+			"name": "ES_Arduino_Basics",
+			"path": "."
+		},
+		{
+			"name": "Hello World",
+			"path": "Hello World"
+		},
+		{
+			"name": "Rotznase_Test",
+			"path": "Rotznase_Test"
+		},
+		{
+			"name": "FunDuino",
+			"path": "FunDuino"
+		}
+	],
+	"settings": {}
+}
